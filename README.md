@@ -10,6 +10,17 @@
 📫 [Acesse o meu Linkedin](https://www.linkedin.com/in/reynatojunior/)
 
 -----
+## Certificações
+
+- ITIL Foundation Certificate in IT Service Management
+- IT Service Management Foundation according to ISO/IEC 20000
+- Green IT Citizen
+
+## Cursos
+
+- <a href="https://www.dio.me/certificate/EAFB0756/share">Formação HTML5 Web Developer</a>
+- <a href="https://www.dio.me/certificate/UI1SIDUJ/share">Formação Angular Developer</a>
+- <a href="https://www.dio.me/certificate/NY97ADDZ/share">Desenvolvimento Frontend com Angular</a>
 
 ## Tecnologias
 <p>
