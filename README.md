@@ -12,6 +12,7 @@
 -----
 ## Certificações
 
+- Scrum Foundation
 - ITIL Foundation Certificate in IT Service Management
 - IT Service Management Foundation according to ISO/IEC 20000
 - Green IT Citizen
