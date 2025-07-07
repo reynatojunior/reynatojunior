@@ -5,7 +5,7 @@
 👨 Olá, me chamo Reynato Junior
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas
-<br>🎓 Cursando Pós-Graduação em Engenharia de Software
+<br>🎓 Pós-Graduação em Engenharia de Software
 
 📫 [Acesse o meu Linkedin](https://www.linkedin.com/in/reynatojunior/)
 
